@@ -19,9 +19,7 @@
         "test:watch": "nwb test --server"
     },
     "peerDependencies": {
-        "@types/react": "^16.8.20",
         "react": "^16.8.x",
-        "typescript": "^3.5.2"
     },
     "devDependencies": {
         "nwb": "0.21.x",
